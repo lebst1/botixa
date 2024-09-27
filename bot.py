@@ -95,8 +95,8 @@ from aiogram.dispatcher import FSMContext
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
 
 CHANNEL_ID = -1002031648635
-CHAT_ID = -4206621861
-ADMIN_CHAT_ID = -4206621861
+CHAT_ID = -1002363559821
+ADMIN_CHAT_ID = -1002363559821
 
 blocked_words = ['пидор', 'шлюхи', 'сосала', 'ебалась', 'солью', 'конченые', 'конченный', 'конч', 'конченый', 'ШЛЮХА', 'хуй', 'хуйло',
                  'уёбище', 'pidor', 'гандон', 'gandon', 'еблан', 'eblan', 'ебланище', 'eblanishe', 'долбаёб', 'хуйло', 'данилина',
